@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0054e1aa-80ee-4278-8ed8-9e2f3dc88cd5" name="Frankfurt" url="http://171.22.174.45:51821">
+        <fileTransfer accessType="SFTP" host="171.22.174.45" port="51821" sshConfigId="82b6e81a-258d-4b3f-a066-29becc09e058" sshConfig="Frankfurt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
